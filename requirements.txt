@@ -1,0 +1,10 @@
+# Homomorphic Encryption App Requirements
+tkinter
+matplotlib
+numpy
+cryptography
+pytest
+flake8
+mypy
+seaborn
+plotly
