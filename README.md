@@ -63,14 +63,14 @@ Decrypted Sum: 12
 ## Screenshots 🖼️
 | SCREEN | SCREEN | 
 |---------|------------|
-| ![H-1](https://github.com/user-attachments/assets/19767ca5-4c59-4cce-8f6f-51246ae06c4c) | ![H-2](https://github.com/user-attachments/assets/0c06735c-ed23-41de-8af5-c15f26d79d9c) |
-| ![H-3](https://github.com/user-attachments/assets/780b56f9-283a-4237-ac6f-d8491e398bbc) | ![H-4](https://github.com/user-attachments/assets/2df97573-35b6-42e4-b85b-cb8ecbc1dbb6) |
-| ![h-1](https://github.com/user-attachments/assets/6233063e-4dd4-4e6d-81f6-5fca620903cd) | ![h-2](https://github.com/user-attachments/assets/9e2b1a5a-1b5d-4536-b4ce-ea13d8188205) |
-| ![h-3](https://github.com/user-attachments/assets/8cd30962-f0fc-4aaf-a0d8-2bc993f375d9) | ![h-4](https://github.com/user-attachments/assets/47b65c44-c2b9-41b9-8e59-59234c3a6092) |
-|![h-5](https://github.com/user-attachments/assets/6a0b0dbe-a56c-4f53-9283-84be6c963343) | ![h-6](https://github.com/user-attachments/assets/9729a1b0-0271-494a-a87e-4353cad0f008) |
-| ![h-7](https://github.com/user-attachments/assets/83d1a010-2663-47d1-a023-0c8b093ff388) | ![h-8](https://github.com/user-attachments/assets/c3376b90-4e4a-4fa8-873d-6ad0feceaf9b) |
+| ![H-1](https://github.com/user-attachments/assets/036f26ac-ad88-45d2-ac31-53a3377d1f14) | ![H-2](https://github.com/user-attachments/assets/11b3ff7c-6c2b-4d42-a05a-3be3c075fcdc) |
+| ![H-3](https://github.com/user-attachments/assets/77711ca6-b1f6-421d-aef5-dc68d7688e1d) | ![H-4](https://github.com/user-attachments/assets/493b6c29-66dd-4878-82f3-114185b836cb) |
+| ![h-5](https://github.com/user-attachments/assets/35a9a069-633b-4451-a3bf-5d00f56b48bc) | ![h-6](https://github.com/user-attachments/assets/ea2ff514-f076-4206-a545-2b49798117a8) |
+| ![h-7](https://github.com/user-attachments/assets/2117d3fd-ef0d-4c0a-a1f3-6d5c1a9e0b3a) | ![h-8](https://github.com/user-attachments/assets/c232d831-f13d-441d-9504-207e40781343) |
+
 
 # Homomorphic Encryption Demonstrator
+
 
 ## Overview
 A desktop application demonstrating the principles of homomorphic encryption with a user-friendly interface.
